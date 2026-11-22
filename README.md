@@ -60,6 +60,12 @@
 
 ![Attrition Analysis Dashboard](./Attrition%20Analysis.png)
 
+### 🎥 Interactive Dashboard Demo
+
+Watch the walkthrough to see the slicers (OverTime, Department, Job Role), page navigation and cross-filtering in action.
+
+[▶️ Watch Interactive Dashboard Demo (MP4)](./HR-Attrition-Dashboard-Demo.mp4)
+
 ---
 
 ## 🔗 Quick Access
@@ -70,6 +76,7 @@
 | 📈 Attrition Analysis Dashboard | [Open PNG](./Attrition%20Analysis.png) |
 | 🗄️ SQL Analysis Script | [Open SQL](./hr-employees-analytics.sql) |
 | 📁 Dataset | [Open CSV](./HR-Employee-Attrition.csv) |
+| 🎥 Interactive Dashboard Demo | [Watch Demo](./HR-Attrition-Dashboard-Demo.mp4) |
 
 ---
 
@@ -265,7 +272,8 @@ The dashboard has **two pages** with interactive slicers for **OverTime**, **Dep
 ├── HR-Employee-Attrition.csv        # Dataset
 ├── hr-employees-analytics.sql       # MySQL analysis (14 tasks)
 ├── Overview.png                     # Dashboard page 1
-└── Attrition Analysis.png           # Dashboard page 2
+├── Attrition Analysis.png           # Dashboard page 2
+└── HR-Attrition-Dashboard-Demo.mp4  # Interactive dashboard walkthrough
 ```
 
 ---
